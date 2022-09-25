@@ -5,7 +5,6 @@ Estudo de APIs (GET, POST, "UPDATE") em PHP PURO com DB MySQL. Sem uso de framew
 Documentação da API:<br>
 https://documenter.getpostman.com/view/15500369/2s83S6dB6S
 
-<br>
 
 Rodar no Postman:<br>
 https://www.getpostman.com/collections/054b225b5380e548c0da
