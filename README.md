@@ -1,5 +1,10 @@
 # api-php-puro
 Estudo de APIs (GET, POST, "UPDATE") em PHP PURO com DB MySQL. Sem uso de frameworks ou composer 
 
-Acesse a documentação da API no Postman:
+Documentação da API:
 https://documenter.getpostman.com/view/15500369/2s83S6dB6S
+
+<br><br>
+
+Rodar no Postman:
+https://www.getpostman.com/collections/054b225b5380e548c0da
