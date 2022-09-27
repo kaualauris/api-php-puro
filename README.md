@@ -1,5 +1,5 @@
 # api-php-puro
-Estudo de APIs (GET, POST, "UPDATE") em PHP PURO com DB MySQL. Sem uso de frameworks ou composer 
+Estudo de APIs (GET, POST, "UPDATE") em PHP PURO com DB MySQL, sem uso de frameworks.
 
 
 Documentação da API:<br>
